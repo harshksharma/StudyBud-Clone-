@@ -6,3 +6,5 @@
 •	Ensured responsive design and seamless user experience across devices.
 youtub for tutorial :- https://youtu.be/PtQiiknWUcI?si=x2o0Q31EzL8CVFcg
 
+For more, you can visit this link: https://github.com/divanov11/StudyBud
+
